@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Santiago and I'm a developer, from Colombia</h2>
+![banner imagen](./assets/banner.png)
+
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=29&pause=1000&color=179A2B&background=FFFFFF00&width=435&lines=Hi+Everyone!!+%F0%9F%91%8B;I'am+Santiago+Cardenas+Jotty" alt="Typing SVG" /></div>
 
 ###
 
