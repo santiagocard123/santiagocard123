@@ -12,9 +12,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jottysng/Jottysng/d1f9d0d/dark_mode.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jottysng/Jottysng/d246877/dark_mode.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
-    <img src="https://raw.githubusercontent.com/Jottysng/Jottysng/d1f9d0d/dark_mode.svg" width="760" alt="Tarjeta de perfil de GitHub de Jottysng" />
+    <img src="https://raw.githubusercontent.com/Jottysng/Jottysng/d246877/dark_mode.svg" width="760" alt="Tarjeta de perfil de GitHub de Jottysng" />
   </picture>
 </p>
 
