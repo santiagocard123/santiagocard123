@@ -25,7 +25,6 @@ jobs:
           output_action: commit
           committer_message: 'chore: refresh stats and languages [skip ci]'
           template: classic
-          color: gray-dark
           base: header, repositories
           plugin_languages: yes
           plugin_languages_limit: 6
@@ -42,13 +41,12 @@ jobs:
           output_action: commit
           committer_message: 'chore: refresh activity pulse [skip ci]'
           template: classic
-          color: gray-dark
           base: ''
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 365
           plugin_activity_visibility: public
-          plugin_activity_filter: all
+          plugin_activity_filter: issue,pr,release,fork,review,ref/create
           plugin_traffic: yes
           plugin_lines: yes
           plugin_lines_history_limit: 1

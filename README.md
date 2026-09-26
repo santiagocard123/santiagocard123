@@ -129,7 +129,7 @@
 
 <h2 align="center">📊 GitHub Stats & Activity Pulse</h2>
 
-<p align="center"><sub>Lenguajes, repositorios y contribuciones de los últimos seis meses · A snapshot of languages and contributions</sub></p>
+<p align="center"><sub>Lenguajes, repositorios y contribuciones públicas de los últimos seis meses · Public activity and languages</sub></p>
 
 <p align="center"><img src="./metrics.summary.svg" width="760" alt="Estadísticas y lenguajes de GitHub de Jottysng" /></p>
 
