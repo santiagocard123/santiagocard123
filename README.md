@@ -12,9 +12,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg?v=custom-1" />
     <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
-    <img src="./dark_mode.svg" width="760" alt="Tarjeta de perfil de GitHub de Jottysng" />
+    <img src="./dark_mode.svg?v=custom-1" width="760" alt="Tarjeta de perfil de GitHub de Jottysng" />
   </picture>
 </p>
 
