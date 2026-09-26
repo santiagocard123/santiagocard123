@@ -1,4 +1,4 @@
-name: Refresh profile card
+name: Refresh light profile card
 
 on:
   schedule:
@@ -18,20 +18,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Refresh dark and light cards
+      - name: Refresh light card
         run: |
           curl -fsSL --retry 3 --retry-delay 5 --max-time 45 \
-            'https://gh.crafter.run/Jottysng?theme=dark' -o dark_mode.svg
-          curl -fsSL --retry 3 --retry-delay 5 --max-time 45 \
             'https://gh.crafter.run/Jottysng?theme=light' -o light_mode.svg
-          grep -q '<svg' dark_mode.svg
           grep -q '<svg' light_mode.svg
 
-      - name: Commit changed cards
+      - name: Commit changed light card
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dark_mode.svg light_mode.svg
+          git add light_mode.svg
           if git diff --cached --quiet; then
             echo 'Cards unchanged.'
           else
