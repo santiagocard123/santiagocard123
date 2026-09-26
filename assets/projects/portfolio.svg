@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="158" viewBox="0 0 760 158" role="img" aria-labelledby="portfolio-title">
+  <title id="portfolio-title">JottyPortfolio — A personal portfolio built with React.</title>
+  <rect x="0.5" y="0.5" width="759" height="157" rx="12" fill="#161B22" stroke="#30363D"/>
+  <path d="M12 1H1v156h11" fill="#58A6FF" opacity=".82"/>
+  <rect x="25" y="26" width="112" height="106" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <rect x="42" y="47" width="80" height="64" rx="7" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 64h80M53 55h2m7 0h2m7 0h2" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="66" cy="84" r="9" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M86 79h25M86 88h18M53 104h58" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="161" y="39" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">PERSONAL PORTFOLIO</text>
+  <text x="161" y="74" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">JottyPortfolio</text>
+  <text x="161" y="100" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14">A personal portfolio built with React.</text>
+  <text x="161" y="127" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="12">React  ·  JavaScript  ·  CSS</text>
+  <path d="M701 72h22m-8-8 8 8-8 8" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

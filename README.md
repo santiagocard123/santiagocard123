@@ -1,57 +1,159 @@
-![banner imagen](./assets/banner.png)
+<p align="center"><sub>DESIGN · ENGINEERING · DELIVERY</sub></p>
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=29&pause=1000&color=179A2B&background=FFFFFF00&width=435&lines=Hi+Everyone!!+%F0%9F%91%8B;I'am+Santiago+Cardenas+Jotty" alt="Typing SVG" /></div>
+<h1 align="center">Jottysng</h1>
 
-###
+<p align="center"><strong>Full Stack Developer</strong> &nbsp;·&nbsp; Santiago Cárdenas Jotty</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiagocard123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagocard123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=42&amp;lines=Building+thoughtful+digital+products.;Del+prototipo+a+produccion." alt="Building thoughtful digital products. Del prototipo a producción." width="680" />
+</p>
 
-###
+<p align="center"><em>Ideas claras. Código útil. Experiencias que importan.</em><br/><sub>Clear ideas. Useful code. Experiences that matter.</sub></p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif"  />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
+    <img src="./dark_mode.svg" width="760" alt="Tarjeta de perfil de GitHub de Jottysng" />
+  </picture>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
+<h2 align="center">👨‍💻 About Me</h2>
 
-###
+<p align="center">Soy desarrollador full stack. Me interesa convertir ideas en productos web claros, rápidos y mantenibles.<br/><sub>I build web products that are clear, fast, and maintainable.</sub></p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+<h2 align="center">⚡ Currently</h2>
 
-###
+<p align="center">Diseñando interfaces · conectando frontend y backend · afinando despliegues<br/><sub>Building interfaces · connecting systems · improving delivery</sub></p>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/santiagocard123/santiagocard123/output/snake.svg" alt="Snake animation" />
+<h2 align="center">🛠️ Tech Stack</h2>
 
-###
+<p align="center"><sub>Herramientas con las que trabajo y exploro · Tools I use and explore</sub></p>
+
+<p align="center"><strong>Languages & Markup</strong></p>
+<p align="center">
+  <img src="./assets/badges/typescript.svg" alt="TypeScript" height="34" />
+  <img src="./assets/badges/javascript.svg" alt="JavaScript" height="34" />
+  <img src="./assets/badges/python.svg" alt="Python" height="34" />
+  <img src="./assets/badges/go.svg" alt="Go" height="34" />
+  <img src="./assets/badges/c.svg" alt="C" height="34" />
+  <img src="./assets/badges/cplusplus.svg" alt="C++" height="34" />
+  <img src="./assets/badges/rust.svg" alt="Rust" height="34" />
+  <img src="./assets/badges/r.svg" alt="R" height="34" />
+  <img src="./assets/badges/html5.svg" alt="HTML5" height="34" />
+  <img src="./assets/badges/css3.svg" alt="CSS3" height="34" />
+  <img src="./assets/badges/markdown.svg" alt="Markdown" height="34" />
+</p>
+
+<p align="center"><strong>Frontend & Runtime</strong></p>
+<p align="center">
+  <img src="./assets/badges/nextdotjs.svg" alt="Next.js" height="34" />
+  <img src="./assets/badges/react.svg" alt="React" height="34" />
+  <img src="./assets/badges/tailwindcss.svg" alt="Tailwind CSS" height="34" />
+  <img src="./assets/badges/bun.svg" alt="Bun" height="34" />
+  <img src="./assets/badges/pnpm.svg" alt="pnpm" height="34" />
+</p>
+
+<p align="center"><strong>Backend & Data</strong></p>
+<p align="center">
+  <img src="./assets/badges/django.svg" alt="Django" height="34" />
+  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL" height="34" />
+  <img src="./assets/badges/mysql.svg" alt="MySQL" height="34" />
+  <img src="./assets/badges/redis.svg" alt="Redis" height="34" />
+  <img src="./assets/badges/neon.svg" alt="Neon" height="34" />
+  <img src="./assets/badges/supabase.svg" alt="Supabase" height="34" />
+</p>
+
+<p align="center"><strong>Data Science & AI</strong></p>
+<p align="center">
+  <img src="./assets/badges/tensorflow.svg" alt="TensorFlow" height="34" />
+  <img src="./assets/badges/numpy.svg" alt="NumPy" height="34" />
+  <img src="./assets/badges/pandas.svg" alt="Pandas" height="34" />
+  <img src="./assets/badges/matplotlib.svg" alt="Matplotlib" height="34" />
+  <img src="./assets/badges/seaborn.svg" alt="Seaborn" height="34" />
+  <img src="./assets/badges/scikitlearn.svg" alt="scikit-learn" height="34" />
+  <img src="./assets/badges/opencv.svg" alt="OpenCV" height="34" />
+</p>
+
+<p align="center"><strong>Systems & Delivery</strong></p>
+<p align="center">
+  <img src="./assets/badges/windows11.svg" alt="Windows" height="34" />
+  <img src="./assets/badges/linux.svg" alt="Linux" height="34" />
+  <img src="./assets/badges/kalilinux.svg" alt="Kali Linux" height="34" />
+  <img src="./assets/badges/parrotsecurity.svg" alt="Parrot OS" height="34" />
+  <img src="./assets/badges/archlinux.svg" alt="Arch Linux" height="34" />
+  <img src="./assets/badges/git.svg" alt="Git" height="34" />
+  <img src="./assets/badges/docker.svg" alt="Docker" height="34" />
+  <img src="./assets/badges/cloudflare.svg" alt="Cloudflare" height="34" />
+  <img src="./assets/badges/heroku.svg" alt="Heroku" height="34" />
+  <img src="./assets/badges/railway.svg" alt="Railway" height="34" />
+</p>
+
+<p align="center"><strong>Workflow & Editors</strong></p>
+<p align="center">
+  <img src="./assets/badges/linear.svg" alt="Linear" height="34" />
+  <img src="./assets/badges/asana.svg" alt="Asana" height="34" />
+  <img src="./assets/badges/gnubash.svg" alt="Bash" height="34" />
+  <img src="./assets/badges/powershell.svg" alt="PowerShell" height="34" />
+  <img src="./assets/badges/vim.svg" alt="Vim" height="34" />
+  <img src="./assets/badges/gnunano.svg" alt="GNU nano" height="34" />
+  <img src="./assets/badges/jupyter.svg" alt="Jupyter" height="34" />
+  <img src="./assets/badges/visualstudiocode.svg" alt="VS Code" height="34" />
+  <img src="./assets/badges/pycharm.svg" alt="PyCharm" height="34" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Jottysng/JottyPortfolio"><img src="./assets/projects/portfolio.svg" width="760" alt="JottyPortfolio: portfolio personal en React" /></a><br/>
+  <a href="https://jotty-portfolio.vercel.app">Live demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Jottysng/JottyPortfolio">Source ↗</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jottysng/frontend-todo"><img src="./assets/projects/todo.svg" width="760" alt="frontend-todo: aplicación de tareas en Next.js y TypeScript" /></a><br/>
+  <a href="https://frontend-todo-gilt.vercel.app">Live demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Jottysng/frontend-todo">Source ↗</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jottysng/Figma-DevMode"><img src="./assets/projects/figma.svg" width="760" alt="Figma Dev Mode: réplica de interfaz con HTML y CSS" /></a><br/>
+  <a href="https://github.com/Jottysng/Figma-DevMode">Explore repository ↗</a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats & Activity Pulse</h2>
+
+<p align="center"><sub>Un vistazo a la actividad y los lenguajes · A snapshot of activity and languages</sub></p>
+
+<p align="center"><img src="./metrics.summary.svg" width="760" alt="Estadísticas y lenguajes de GitHub de Jottysng" /></p>
+
+<p align="center"><img src="./metrics.activity.svg" width="760" alt="Activity Pulse de GitHub de Jottysng" /></p>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">Portfolio público y aplicaciones web desplegadas · proyectos abiertos que abarcan frontend, backend y diseño.<br/><sub>Public builds across frontend, backend, and interface design.</sub></p>
+
+<h2 align="center">🎯 Goals</h2>
+
+<p align="center">Crear productos full stack fiables, profundizar en arquitectura backend y cloud, y aportar a proyectos abiertos.<br/><sub>Build reliable products, deepen backend and cloud skills, contribute to open source.</sub></p>
+
+---
+
+<h2 align="center">🤝 Contact</h2>
+
+<p align="center">
+  <a href="https://github.com/Jottysng">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/santiago-c%C3%A1rdenas-jotty-6a93ba360/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:santiagocardenas432@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="http://jottyportfolio-s8bjqi-258c2b-161-153-45-177.sslip.io/es/">Portfolio</a>
+</p>
+
+<p align="center"><sub>Built with intention · Hecho con intención<br/>Icon artwork: <a href="https://simpleicons.org">Simple Icons</a>, <a href="https://devicon.dev">Devicon</a> and <a href="https://tabler.io/icons">Tabler Icons</a>.</sub></p>

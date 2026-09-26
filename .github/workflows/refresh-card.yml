@@ -1,0 +1,41 @@
+name: Refresh profile card
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-card
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh dark and light cards
+        run: |
+          curl -fsSL --retry 3 --retry-delay 5 --max-time 45 \
+            'https://gh.crafter.run/Jottysng?theme=dark' -o dark_mode.svg
+          curl -fsSL --retry 3 --retry-delay 5 --max-time 45 \
+            'https://gh.crafter.run/Jottysng?theme=light' -o light_mode.svg
+          grep -q '<svg' dark_mode.svg
+          grep -q '<svg' light_mode.svg
+
+      - name: Commit changed cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dark_mode.svg light_mode.svg
+          if git diff --cached --quiet; then
+            echo 'Cards unchanged.'
+          else
+            git commit -m 'chore: refresh profile card [skip ci]'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
