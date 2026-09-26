@@ -69,18 +69,18 @@
   <text x="28" y="677.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">?~`                              -^`                                '-`                                                       '~:</text>
   </g>
   <line x1="400" y1="24" x2="400" y2="376" stroke="#30363d"/>
-  <text x="424" y="54" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700">Jottysng@github</text>
-  <text x="424" y="83" fill="#e6edf3" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600">Full Stack Developer</text>
-  <text x="424" y="111" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400">On GitHub since 2023</text>
+  <text x="424" y="54" fill="#58a6ff" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" font-weight="700">Jottysng@github</text>
+  <text x="424" y="83" fill="#e6edf3" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" font-weight="600">Full Stack Developer</text>
+  <text x="424" y="111" fill="#8b949e" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="400">On GitHub since 2023</text>
   <line x1="424" y1="130" x2="776" y2="130" stroke="#30363d"/>
-  <text x="424" y="157" fill="#79c0ff" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700">LANGUAGES</text>
-  <text x="424" y="184" fill="#e6edf3" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600">Python  ·  C++  ·  Java</text>
+  <text x="424" y="157" fill="#79c0ff" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700">// LANGUAGES</text>
+  <text x="424" y="184" fill="#e6edf3" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" font-weight="600">Python  ·  C++  ·  Java</text>
   <line x1="424" y1="203" x2="776" y2="203" stroke="#30363d"/>
-  <text x="424" y="230" fill="#79c0ff" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700">PUBLIC SNAPSHOT</text>
-  <text x="424" y="258" fill="#e6edf3" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600">28 public repositories</text>
-  <text x="424" y="286" fill="#e6edf3" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600">3 followers</text>
+  <text x="424" y="230" fill="#79c0ff" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700">// PUBLIC SNAPSHOT</text>
+  <text x="424" y="258" fill="#e6edf3" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" font-weight="600">28 public repositories</text>
+  <text x="424" y="286" fill="#e6edf3" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" font-weight="600">3 followers</text>
   <line x1="424" y1="305" x2="776" y2="305" stroke="#30363d"/>
-  <text x="424" y="332" fill="#79c0ff" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700">FEATURED REPOSITORY</text>
-  <text x="424" y="358" fill="#e6edf3" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600">Figma-DevMode</text>
-  <text x="424" y="384" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400">github.com/Jottysng</text>
+  <text x="424" y="332" fill="#79c0ff" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700">// FEATURED REPOSITORY</text>
+  <text x="424" y="358" fill="#e6edf3" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" font-weight="600">Figma-DevMode</text>
+  <text x="424" y="384" fill="#8b949e" font-family="'Cascadia Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="400">github.com/Jottysng</text>
 </svg>
